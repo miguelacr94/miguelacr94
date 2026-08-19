@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miguelacr94
-- 👀 I’m interested in ...  aprender cada vez mas el manejo de los lenguajes y herramine para el desarollo web
-- 🌱 I’m currently learning ...  Angular  
+- 👀 I’m interested in ...  aprender cada vez mas
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on  compañias 
 - 📫 How to reach me ...  miguelacr94@gmail.com
 
